@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br><br><br><br><br><br>
+🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br><br>
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
@@ -12,6 +12,8 @@
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Tamil
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
+
+<br><br>
 
 
 ## 🌐 Socials:
