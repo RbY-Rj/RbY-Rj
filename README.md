@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am a BCA Boy.<br>🌈Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br><br><br><br><br><br>
+🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br><br><br><br><br><br>
 
 
 ## 🌐 Socials:
