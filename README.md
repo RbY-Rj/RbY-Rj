@@ -12,7 +12,7 @@
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Tamil
 <p align="left">
 - 𝙼𝚘𝚜br>𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-<br><
+<br>
 
 
 ## 🌐 Socials:
@@ -45,14 +45,14 @@
 <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RbY-Rj&limit=5&theme=chalk&combine_all_yearly_contributions=true)
-
+<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=RbY-Rj&icon=8&color=1)](https://visitcount.itsvg.in)
-
+<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+<br>
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RbYRj) 
 
