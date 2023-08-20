@@ -14,7 +14,6 @@
 - 𝙼𝚘𝚜br>𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
 <br>
 
-
 ## 🌐 Socials:
 <p align='left'>
   
@@ -54,7 +53,9 @@
 
 <br>
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RbYRj) 
-
+ <p align='left'>
+  <a href="https://paypal.me/RbYRj">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>&nbsp;&nbsp;
   
 
