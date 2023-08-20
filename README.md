@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br><br>
+🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br>
 
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
@@ -13,14 +13,25 @@
 <p align="left">
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
 
-<br><br>
+<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruby_the_vapz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manickarajv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RbY__Rj)<a href="https://t.me/RbY_Rj"><img title="Telegram" src=""></a>
-https://img.shields.io/static/v1?label=Mr.RbY&message=TG&color=blue-green
-<b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
+<p align='center'>
+  
+  <a href="https://t.me/RbY_Rj">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/ruby_the_vapz">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/manickarajv">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
 
+</p>
+
+  
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
