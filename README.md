@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=RbY-Rj&icon=8&color=1)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
- ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
   ## 💰 You can help me by Donating
