@@ -39,8 +39,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RbY-Rj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RbY-Rj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
+ 
+<p align="center">
+<img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
+<img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
+</p>
+
+
 <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RbY-Rj&limit=5&theme=chalk&combine_all_yearly_contributions=true)
