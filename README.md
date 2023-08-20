@@ -11,9 +11,8 @@
 <p align="left">
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Tamil
 <p align="left">
-- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
-
-<br>
+- 𝙼𝚘𝚜br>𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
+<br><
 
 
 ## 🌐 Socials:
@@ -30,18 +29,20 @@
   </a>&nbsp;&nbsp;
 
 </p>
-
+<br>
   
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RbY-Rj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RbY-Rj&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RbY-Rj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RbY-Rj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
+<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RbY-Rj&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
