@@ -1,9 +1,23 @@
 # 💫 About Me:
 🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br><br><br><br><br><br>
 
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+
+# 😎 More Info:
+<p align="left">
+• 𝙰𝚐𝚎 : 23
+<p align="left">
+• 𝙿𝚕𝚊𝚌𝚎 : [Tn 72]
+<p align="left">
+• 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Tamil
+<p align="left">
+- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
+
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruby_the_vapz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manickarajv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RbY__Rj) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ruby_the_vapz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manickarajv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RbY__Rj)<a href="https://t.me/RbY_Rj"><img title="Telegram" src=""></a>
+https://img.shields.io/static/v1?label=Mr.RbY&message=TG&color=blue-green
+<b>𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒</b>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
