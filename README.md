@@ -52,12 +52,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
-  ## 💰 You can help me by Donating
- <p align='left'>
-  <a href="https://paypal.me/RbYRj">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  
 
   # 💰 You can help me by Donating :
   <a href="https://paypal.me/RbYRj">
