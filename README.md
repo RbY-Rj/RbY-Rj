@@ -39,14 +39,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RbY-Rj&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
-## 🏆 𝐓𝐑𝐎𝐏𝐇𝐈𝐄𝐒 🏆
- 
-<p align="center">
-<img width="13%" src="https://telegra.ph/file/b490b39f93ec158ddf21f.png" />
-<img width="13%" src="https://telegra.ph/file/72882469165faec6d2e03.jpg" />
-</p>
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RbY-Rj&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 <br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RbY-Rj&limit=5&theme=chalk&combine_all_yearly_contributions=true)
@@ -58,6 +52,13 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
+  ## 💰 You can help me by Donating
+ <p align='left'>
+  <a href="https://paypal.me/RbYRj">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+
   # 💰 You can help me by Donating :
   <a href="https://paypal.me/RbYRj">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
