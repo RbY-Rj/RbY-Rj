@@ -29,7 +29,7 @@
   <br>
   <br> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://t.me/Rbylinkzz/47">
-    &nbsp;<img src="https://img.shields.io/badge/RbY Linkz-Channel-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
+    &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/RbY Linkz-Channel-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
   </a>
 
 </p>
@@ -52,7 +52,7 @@
 <br>
 
 ## 👀 Profile Views
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RbY-R}/count.svg"/></p> 
+&nbsp;&nbsp;<p align="left"><img align="left" src="https://profile-counter.glitch.me/{RbY-R}/count.svg"/></p> 
 
 <br>
 
