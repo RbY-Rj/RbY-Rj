@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 About Me:
 🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime <br>
 
@@ -67,4 +69,4 @@
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-
+</div>
