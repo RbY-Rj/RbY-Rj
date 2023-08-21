@@ -4,10 +4,14 @@
 
 # 💫 About Me:
 <p align ="left"
-🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime. <br></p
+🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime. <br></p></div>
 
-<p align ="left"
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)</p>
+<div align="left">
+
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+
+</div>
+<div align="center">
 
 # 😎 More Info:
 <p>
