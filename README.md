@@ -54,7 +54,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
-  # 💰 You can help me by Donating :
+### 💰𝐘𝐨𝐮 𝐜𝐚𝐧 𝐡𝐞𝐥𝐩 𝐦𝐞 𝐛𝐲 𝐃𝐨𝐧𝐚𝐭𝐢𝐧𝐠 :
+<br>
   <a href="https://paypal.me/RbYRj">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>&nbsp;&nbsp;
