@@ -6,18 +6,18 @@
 [![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 
 # 😎 More Info:
-<p align="left">
+<p>
 • 𝙰𝚐𝚎 : 23
-<p align="left">
+<p>
 • 𝙿𝚕𝚊𝚌𝚎 : [Tn 72]
-<p align="left">
+<p>
 • 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : Tamil
-<p align="left">
+<p>
 - 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝙾𝚗 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
 <br>
 
 ## 🌐 Socials:
-<p align='left'>
+<p>
   
   <a href="https://t.me/RbY_Rj">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
