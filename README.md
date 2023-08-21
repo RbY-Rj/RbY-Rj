@@ -16,8 +16,8 @@
 <div align="center">
 
 # 😎 More Info:
-<p style="bold">
-• 𝙰𝚐𝚎 : 23
+<p>
+•𝗔𝗴𝗲 : 𝟮𝟯
 <p>
 • 𝙿𝚕𝚊𝚌𝚎 : [Tn 72]
 <p>
