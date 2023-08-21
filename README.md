@@ -52,9 +52,7 @@
 <br>
 
 ## 👀 Profile Views
-
----
-[![](https://visitcount.itsvg.in/api?id=RbY-Rj&icon=8&color=1)](https://visitcount.itsvg.in)
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RbY-R}/count.svg"/></p> 
 
 <br>
 
