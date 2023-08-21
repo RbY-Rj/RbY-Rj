@@ -52,7 +52,7 @@
 <br>
 
 ## 👀 Profile Views
-&nbsp;&nbsp;<p align="left"><img align="left" src="https://profile-counter.glitch.me/{RbY-R}/count.svg"/></p> 
+&nbsp;&nbsp;<p><img src="https://profile-counter.glitch.me/{RbY-R}/count.svg"/></p> 
 
 <br>
 
@@ -60,7 +60,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
-
 ### 💰Help me by Donating
 <br>
   <a href="https://paypal.me/RbYRj">
