@@ -26,7 +26,7 @@
   <a href="https://linkedin.com/in/manickarajv">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <br>&nbsp;&nbsp&nbsp;&nbsp;
+  <br><br>&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://t.me/Rbylinkzz/47">
     &nbsp;<img src="https://img.shields.io/badge/RbY Linkz-Channel-blue?style=flat-square&logo=telegram" width="200" height="28">&nbsp;
   </a>
@@ -50,7 +50,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=RbY-Rj&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 <br>
 
----
+## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=RbY-Rj&icon=8&color=1)](https://visitcount.itsvg.in)
 <br>
 
