@@ -1,7 +1,9 @@
-<div align="center">
+
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
+<div align="center">
+  
 # 💫 About Me:
 <p align ="left"
 🔭 I am a BCA Boy.<br>🌈 Passionate about UI/UX Designing.<br>😁 Interested in Mobiles.<br>💕 Addictive in Technology.<br>⚡ Freak at Sci-fi & Crime. <br></p></div>
